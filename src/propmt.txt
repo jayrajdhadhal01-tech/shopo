@@ -1,0 +1,29 @@
+Remember this 
+Design ultra premium quality e-commerce web application
+
+Tech Stack
+React
+Lucide-React
+Tailwind.css
+Animate.css
+
+Branding
+Shopo
+
+Rules
+-Ui must be responsive
+-Form must be validated
+-Always console Form value on submit
+-Do not use custom css only use tailwind
+-Always give full code of component
+-cleanest code pattern understand easily
+
+From now design only given component
+-Yes
+-No
+
+1.Design logo component with branding details,logo should  be look mordern 
+2.remember this src /components/Logo.jsx
+3.give me app component for logo testing 
+4.design layout and footer components
+5.generate signup and login components
